@@ -18,6 +18,9 @@
 ### 🎯 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk-udiya-366b6b25a/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UdiyaTanis43966)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tanishkudiya/)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-%23FF6C37.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.naukri.com/code360/profile/eef7a1de-1dee-45fc-bce7-fad3bbe05552)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishkudiya)
 
 ## 🚀 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
