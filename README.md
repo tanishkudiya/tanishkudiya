@@ -15,6 +15,10 @@
 - 📫 How to reach me: [Email Me](mailto:tanishkudiya365@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanishk-udiya-366b6b25a/)
 - ⚡ Fun fact: I love **coding, travels, and coffee ☕**
 
+### 🎯 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk-udiya-366b6b25a/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UdiyaTanis43966)
+
 ## 🚀 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,6 +37,4 @@
 
 ---
 
-### 🎯 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk-udiya-366b6b25a/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UdiyaTanis43966)
+
