@@ -1,8 +1,14 @@
-## Hi there 👋
-### 🚀 Full Stack Developer | 💻 Open Source Enthusiast
+<p align="center">
+  <h1>Hi 👋, I'm Tanishk Udiya</h1>
+</p>
 
+<p align="center">
+  <b> 🚀 Full Stack Developer | 💻 Open Source Enthusiast</b>
+</p>
 
-Welcome to my GitHub profile! Here are some things about me:
+<p align="center">
+  <h3>Welcome to my GitHub profile! Here are some things about me:</h3>
+</p>
 
 - 🌱 I’m currently learning next.js
 - 💬 Ask me about **JavaScript, React, and APIs**
@@ -19,7 +25,6 @@ Welcome to my GitHub profile! Here are some things about me:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -27,9 +32,6 @@ Welcome to my GitHub profile! Here are some things about me:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishkudiya&show_icons=true&theme=radical)
 
 ### 🎯 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk-udiya-366b6b25a/)
