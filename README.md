@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning next.js
 - 💬 Ask me about **JavaScript, React, and APIs**
-- 📫 How to reach me: [Email Me](tanishkudiya365@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanishk-udiya-366b6b25a/)
+- 📫 How to reach me: [Email Me](mailto:tanishkudiya365@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanishk-udiya-366b6b25a/)
 - ⚡ Fun fact: I love **coding, travels, and coffee ☕**
 
 ## 🚀 Tech Stack:
