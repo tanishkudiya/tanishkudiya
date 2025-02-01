@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <h1>Hi 👋, I'm Tanishk Udiya</h1>
-</p>
+</div>
 
 <p align="center">
   <b> 🚀 Full Stack Developer | 💻 Open Source Enthusiast</b>
